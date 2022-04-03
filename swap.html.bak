@@ -27,7 +27,7 @@
     <meta property="og:description" content="Time Swap, because time is money" />
     <meta property="og:image" content="/logo.png" />
     <meta property="og:site_name" content="Time Swap />
-    <meta property="og:url" content="https://timeswap.money" />
+    <meta property="og:url" content="https://swap.crofi.me/" />
 </head><noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="root"></div>
 <div id="portal-root"></div>
