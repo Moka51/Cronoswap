@@ -12,21 +12,21 @@
     <link rel="shortcut icon" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/logo.png" />
     <link rel="manifest" href="/manifest.json" />
-    <title>TimeSwap</title>
-    <meta name="title" content="TimeSwap, because time is money" />
+    <title>CrofiSwap</title>
+    <meta name="title" content="CrofiSwap, because time is money" />
     <meta name="description" content="TimeSwap, because time is money" />
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1" />
     <meta name="theme-color" content="#1FC7D4" />
     <meta name="twitter:image" content="/logo.png" />
     <meta name="twitter:description" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="TimeSwap, because time is money" />
+    <meta name="twitter:title" content="CrofiSwap, because time is money" />
     <link href="/static/css/2.ecdd39c8.chunk.css" rel="stylesheet">
 	<meta property="og:type" content="website" />
-    <meta property="og:title" content="Time Swap, because time is money" />
-    <meta property="og:description" content="Time Swap, because time is money" />
+    <meta property="og:title" content="CrofiSwap, because time is money" />
+    <meta property="og:description" content="CrofiSwap, because time is money" />
     <meta property="og:image" content="/logo.png" />
-    <meta property="og:site_name" content="Time Swap />
+    <meta property="og:site_name" content="Crofi Swap />
     <meta property="og:url" content="  https://swap.crofi.me/swap/" />
 </head><noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="root"></div>
