@@ -5050,7 +5050,7 @@
                                                 color: "#A5A5A5",
                                                 paddingRight: "8px"
                                             },
-                                            children: "Audit (soon)"
+                                            children: "Crofi.me"
                                         })]
                                     })
                                 }), Object(U.jsx)(In.a, {
