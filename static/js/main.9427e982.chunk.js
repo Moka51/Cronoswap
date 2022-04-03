@@ -15286,7 +15286,7 @@
                 s = r.a.MAINNET,
                 c = r.a.TESTNET,
                 u = {
-					tst: new r.j(s, "0x696d15377936dB2fB35a8D7f303De9a42f486f0C", 9, "TST", "TimeSwap Token", "https://swap.crofi.me//"),
+					tst: new r.j(s, "0x696d15377936dB2fB35a8D7f303De9a42f486f0C", 9, "CROFI", "CROFI", "https://swap.crofi.me//"),
                     mmf: new r.j(s, "0x97749c9B61F878a880DfE312d2594AE07AEd7656", 18, "MMF", "Mad Meerkat Finance Token", "https://mm.finance/"),
                     cro: new r.j(s, "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23", 18, "CRO", "CRO", "https://crypto.org/"),
                     wcro: new r.j(s, "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23", 18, "WCRO", "Wrapped CRO", "https://crypto.org/"),
