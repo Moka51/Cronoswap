@@ -4943,19 +4943,19 @@
                         label: e("About"),
                         items: [{
                             label: e("Contact"),
-                            href: "https://timeswap.gitbook.io/contact-us"
+                            href: "https://google.com//contact-us"
                         }, {
                             label: e("Brand"),
-                            href: "https://timeswap.gitbook.io/brand"
+                            href: "https://google.com//brand"
                         }, {
                             label: e("Blog"),
                             href: "https://medium.com/pancakeswap"
                         }, {
                             label: e("Community"),
-                            href: "https://timeswap.gitbook.io/contact-us/telegram"
+                            href: "https://google.com//contact-us/telegram"
                         }, {
                             label: e("MMF token"),
-                            href: "https://timeswap.gitbook.io/tokenomics/cake"
+                            href: "https://google.com//tokenomics/cake"
                         }, {
                             label: "\u2014"
                         }, {
@@ -4967,13 +4967,13 @@
                         label: e("Help"),
                         items: [{
                             label: e("Customer Support"),
-                            href: "https://timeswap.gitbook.io/contact-us/customer-support"
+                            href: "https://google.com//contact-us/customer-support"
                         }, {
                             label: e("Troubleshooting"),
-                            href: "https://timeswap.gitbook.io/help/troubleshooting"
+                            href: "https://google.com//help/troubleshooting"
                         }, {
                             label: e("Guides"),
-                            href: "https://timeswap.gitbook.io/get-started"
+                            href: "https://google.com//get-started"
                         }]
                     }, {
                         label: e("Developers"),
@@ -4982,16 +4982,16 @@
                             href: "https://github.com/pancakeswap"
                         }, {
                             label: e("Documentation"),
-                            href: "https://timeswap.gitbook.io"
+                            href: "https://google.com/"
                         }, {
                             label: e("Bug Bounty"),
                             href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty"
                         }, {
                             label: e("Audits"),
-                            href: "https://timeswap.gitbook.io/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
+                            href: "https://google.com//help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
                         }, {
                             label: e("Careers"),
-                            href: "https://timeswap.gitbook.io/hiring/become-a-chef"
+                            href: "https://google.com//hiring/become-a-chef"
                         }]
                     }]
                 },
@@ -5038,7 +5038,7 @@
                         globalMenu: Object(U.jsx)(U.Fragment, {
                             children: Object(U.jsxs)(Pn, {
                                 children: [Object(U.jsx)("a", {
-                                    href: "https://timeswap.gitbook.io/docs/audit",
+                                    href: "https://google.com//docs/audit",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: Object(U.jsxs)(Bn, {
@@ -15047,9 +15047,9 @@
                     startTimestamp: 1646798400,
                     endTimestamp: 1646884800,
                     campaignId: "9",
-                    articleUrl: "https://timeswap.gitbook.io/mm-etf/",
+                    articleUrl: "https://google.com//mm-etf/",
                     tokenOfferingPrice: "15 MMF",
-                    projectSite: "https://timeswap.gitbook.io/mm-etf/",
+                    projectSite: "https://google.com//mm-etf/",
                     version: 1,
                     loadIfoData: !0
                 }, {
@@ -15243,7 +15243,7 @@
                     startTimestamp: 1640404800,
                     endTimestamp: 1640491200,
                     campaignId: "511140000",
-                    articleUrl: "https://timeswap.gitbook.io/optimizer",
+                    articleUrl: "https://google.com//optimizer",
                     tokenOfferingPrice: "$4",
                     projectSite: "https://vaults.timeswap.money/",
                     version: 1,
